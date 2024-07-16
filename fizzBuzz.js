@@ -6,5 +6,5 @@ function fizzBuzz(n){
         console.log(output || i);
     }
     
-};
+}
 fizzBuzz(15);
